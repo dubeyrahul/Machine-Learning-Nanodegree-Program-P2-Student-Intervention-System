@@ -1,6 +1,8 @@
 # Machine-Learning-Nanodegree-Program-P2-Building-a-Student-Intervention-System
 This is the second project in Udacity's Machine Learning Nanodegree which is based on Supervised Learning Techniques
 
+Problem Statement:
+
 A local school district has a goal to reach a 95% graduation rate by the end of the decade by identifying students 
 who need intervention before they drop out of school. 
 
